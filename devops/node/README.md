@@ -12,7 +12,7 @@ Also, copy the proper env for the testnet you choose:
 
 ## Installing
 
-First, source all the defaults: `source defaults.sh`
+First, source all the defaults: `source defaults.env`
 
 Then you may want to set the following variables locally:
 
